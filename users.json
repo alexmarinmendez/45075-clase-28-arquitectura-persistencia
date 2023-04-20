@@ -1,0 +1,20 @@
+[
+	{
+		"first_name": "Alex",
+		"last_name": "Marin",
+		"age": 45,
+		"id": 1
+	},
+	{
+		"first_name": "Otro Alex",
+		"last_name": "Marin",
+		"age": 45,
+		"id": 2
+	},
+	{
+		"first_name": "Sahkira",
+		"last_name": "Shakira",
+		"age": 45,
+		"id": 3
+	}
+]
